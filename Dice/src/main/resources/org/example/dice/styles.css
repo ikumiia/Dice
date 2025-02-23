@@ -1,0 +1,14 @@
+
+#rollButton {
+    -fx-padding: 50px 0 0 0;
+    -fx-background-color: #1a73e8;
+    -fx-text-fill: white;
+    -fx-font-size: 120px;
+
+}
+.dice-label {
+    -fx-text-fill: white;
+    -fx-padding: 50px 0 0 0;
+    -fx-alignment: center;
+    -fx-font-size: 120px;
+}
